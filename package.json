@@ -1,0 +1,19 @@
+{
+  "name": "first-node-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tedichavdarov-dev/First-Node-Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tedichavdarov-dev/First-Node-Repo/issues"
+  },
+  "homepage": "https://github.com/tedichavdarov-dev/First-Node-Repo#readme"
+}
